@@ -8,7 +8,7 @@
 - 💼 I’m currently working on [Coopersytem](https://www.coopersystem.com.br);
 - 🔧 I am always looking to learn new technologies;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: :odilon.garcez.moraes@gmail.com;
+- 📫 How to reach me: odilon.garcez.moraes@gmail.com;
 
 <a href="https://github.com/bc05">
     <img width="50%" align="right" width="50%" alt="Odilon github stats" src="https://github-readme-stats.vercel.app/api?username=bc05&show_icons=true&hide_border=true" />
